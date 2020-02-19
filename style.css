@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+
+.titulo {background-color: chartreuse; 
+    text-align: center;
+}
+
+.categorias {
+    display: inline-block;
+    width: 20%;
+    border: 1px solid black;
+    height: 300px;
+}
+
+h2 { border: 1px solid black
+}
